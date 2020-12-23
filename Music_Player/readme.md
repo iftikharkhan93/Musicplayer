@@ -30,3 +30,11 @@ Information of each track:-
 Autoplay Functionality:-
 If autoplay is off, the next song will not be played.
 To automatically play the next song, autoplay must be turned on when the song is completed.
+
+
+Project's code resources used for creating a music player:-
+
+1)https://www.youtube.com/watch?v=14SmNeUqd0Q
+2)https://www.youtube.com/watch?v=VjgL_TD9JpQ
+
+
